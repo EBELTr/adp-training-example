@@ -9,5 +9,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class SpringBootTest {
     @Test
     public void contextLoads() {
+        // FIXME Test should be implemented
     }
 }
