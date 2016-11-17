@@ -7,4 +7,4 @@ Wird verwendet für Dev Ops Training
 - GitHub Forking und Pull Requests
 - Example project for CloudFoundry
 
-Demo für Git merge und push
+Demo für Git merge und push :-)
